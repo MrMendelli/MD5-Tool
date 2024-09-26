@@ -2,6 +2,10 @@
 
 ## Change Log
 
+### 1.5
+
+* Removed file name from output
+
 ### 1.4
 
 #### Added

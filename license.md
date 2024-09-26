@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 2015-2023 Cyotek Ltd.
+Copyright© Mr. Mendelli.
 
 All rights reserved.
 

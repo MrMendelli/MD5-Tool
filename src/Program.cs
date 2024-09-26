@@ -201,7 +201,7 @@ namespace Cyotek.Tools.SimpleMD5
 
       if (!_options.ErrorsOnly)
       {
-        ColorEcho.EchoLine("{0b}" + hashString + "{#}: " + this.GetFileNameLabel(basePath, fileName));
+        ColorEcho.EchoLine("{0b}" + hashString + "{#}");
       }
 
       if (!this.IsMd5File(fileName))

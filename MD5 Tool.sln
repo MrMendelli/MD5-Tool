@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cyotek.Md5", "src\Cyotek.Md5.csproj", "{6C4B8FEB-6199-4D1F-908F-1665161EC7F3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MD5.Tool", "src\MD5.Tool.csproj", "{6C4B8FEB-6199-4D1F-908F-1665161EC7F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
